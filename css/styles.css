@@ -1,6 +1,7 @@
 .img{
     background-image: url("images/stair.jpg");
     background-size: cover;
+    background-attachment: fixed;
     height: 100vh;
     display:flex;
     flex-direction: column;
@@ -17,14 +18,37 @@
     color:white;
     font-family: 'lato', sans-serif;
     font-size:30px;
-    font-weight: 3px;
     margin-top: 0;
 }
 .img p{
     color:white;
     margin-top:-10px;
+    font-size:20px;
 }
 .about{
     text-align: center;
     font-size:14px;
+}
+.about p{
+    font-size:20px;
+}
+.serve{
+    background-image:url("images/services.jpg");
+    background-size: cover;
+    height:40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.serve h1{
+    color:white;
+    margin-top:0;
+}
+.serve p{
+    font-size: 20px;
+}
+
+.serve p{
+    color:white;
 }
