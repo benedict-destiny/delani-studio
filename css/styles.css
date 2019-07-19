@@ -1,0 +1,22 @@
+.img{
+    background-image: url("images/stair.jpg");
+    background-size: cover;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+.img h1{
+    color:white;
+    font-famil: 'Lato',sans-serif;
+    font-size:40px;
+    margin-bottom:0
+}
+.img h2{
+    color:white;
+    font-family: 'lato', sans-serif;
+    font-size:30px;
+    font-weight: 3px;
+    margin-top: 0;
+}
