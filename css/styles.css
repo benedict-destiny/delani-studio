@@ -52,3 +52,7 @@
 .serve p{
     color:white;
 }
+.img #image{
+ position: relative;
+ top: 130px   
+}
