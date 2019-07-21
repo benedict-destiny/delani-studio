@@ -56,3 +56,6 @@
  position: relative;
  top: 130px   
 }
+img{
+    vertical-align: below;
+}
