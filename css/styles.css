@@ -150,3 +150,9 @@ h4{
 .items h5{
     text-align: center;
 }
+.icons{
+    position: relative;
+    left: 440px;
+    top:15px;
+    padding: 13px;
+}
