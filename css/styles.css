@@ -118,8 +118,25 @@ textarea:focus, input:focus {
     padding: 7px
 }
 .sub{
+    position: relative;
+    right: 60px;
+    width: 600px;
     color: white;
 }
 .form-control::placeholder{
     color: white;
+}
+.num{
+    position: relative;
+    top: 50px
+}
+.name{
+    position: relative;
+    right: 60px;
+    width: 300px
+}
+.mail{
+    position: relative;
+    width: 288px;
+    left: 30px
 }
