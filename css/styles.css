@@ -107,3 +107,10 @@ textarea:focus, input:focus {
 .pos{
     left:226px
 }
+.card-footer{
+    font-size: 10px
+}
+.column{
+    width: 9px;
+    padding: 7px
+}
