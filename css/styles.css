@@ -71,7 +71,7 @@ img{
 .services{
  color: white;
 }
-input{
+forms input{
     background-color: rgba(255, 255, 255, 0);
 }
 ::placeholder{
@@ -107,8 +107,9 @@ textarea:focus, input:focus {
 .pos{
     left:226px
 }
-.card-footer{
-    font-size: 10px
+.foot{
+    text-align: center;
+    font-size: 5px;
 }
 .column{
     width: 9px;
