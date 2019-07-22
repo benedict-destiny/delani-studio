@@ -140,3 +140,13 @@ textarea:focus, input:focus {
     width: 288px;
     left: 30px
 }
+h4{
+    text-align: center;
+}
+.items img{
+    position: relative;
+    left:180px
+}
+.items h5{
+    text-align: center;
+}
