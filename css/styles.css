@@ -156,3 +156,32 @@ h4{
     top:15px;
     padding: 13px;
 }
+#hide{
+    text-align: center;
+}
+#hide1{
+    text-align: center;
+    font-size: 20px;
+    display: none;
+}
+#hide h5{
+    position: relative;
+    left:180px;
+}
+#dev{
+    text-align: center;
+}
+#dev1{
+    text-align: center;
+    font-size: 20px;
+    display: none;
+}
+.position{
+    position: relative;
+    right: 180px;
+}
+#prod1{
+    font-size:20px;
+    text-align: center;
+    display:none;
+}
