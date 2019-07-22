@@ -71,7 +71,7 @@ img{
 .services{
  color: white;
 }
-forms input{
+input{
     background-color: rgba(255, 255, 255, 0);
 }
 ::placeholder{
@@ -105,16 +105,15 @@ textarea:focus, input:focus {
     left: 80px
 }
 .pos{
-    left:226px
+    color: white;
+    left:218px;
+    bottom: 130px;
 }
 .foot{
     text-align: center;
-    font-size: 5px;
+    font-size: 10px
 }
 .column{
     width: 9px;
     padding: 7px
-}
-.portfoio{
-    background-color: blue;
 }
