@@ -7,15 +7,15 @@ click the link below to access the webpage
 https://benedict-destiny.github.io/delani-studio/
 
 ## Set-up and installation
-Fork the project
-Clone to your local directory
-Open the html file
-Lauch it in your browser
+- Fork the project
+- Clone to your local directory
+- Open the html file
+- Lauch it in your browser
 
 ## Technologies Used
--HTML
--CSS
--JQUERY
+- HTML
+- CSS
+- JQUERY
 
 ### Contact me
 
