@@ -1,5 +1,5 @@
 # DELANI STUDIO
-This project is of a website for Delani studio. The website has social information in what the studio deals in.
+This project is of a website for Delani studio. The website has information in what the studio deals in.
 ### BY Benedict Destiny
 
 ## HOW TO ACCESS
