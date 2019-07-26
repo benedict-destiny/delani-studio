@@ -90,6 +90,6 @@ $(document).ready(function(){
     $("#darktext8").hide();
   });
 });
-$(document).ready(function sub(){
+function sub(){
   alert("thank you for contacting us")
-})
+}
